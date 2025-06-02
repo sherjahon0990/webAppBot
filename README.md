@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -82,4 +83,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 "# webAppBot" 
 "# webAppBot" 
 "# webApps" 
+"# webApps" 
+=======
+"# webAppBot" 
+>>>>>>> 5c3a69562abf07a2faa9a5073d85fa50150a1fd1
 "# webApps" 
